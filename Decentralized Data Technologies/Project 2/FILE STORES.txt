@@ -1,0 +1,18 @@
+Thema 1:
+
+/FileStore/tables/tempm-5.csv
+
+/FileStore/tables/hum.csv
+
+
+Thema 2:
+
+/FileStore/tables/agn_us.txt
+
+/FileStore/tables/ainv_us.txt
+
+/FileStore/tables/ale_us.txt
+
+Thema 3:
+
+/FileStore/tables/tour_occ_ninat-5.csv
